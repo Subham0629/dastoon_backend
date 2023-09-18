@@ -1,0 +1,28 @@
+{
+    "books": [
+      { "id": 1, 
+      "title": "Harry Potter", 
+      "author": "Harry",
+      "price": 200,
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?size=626&ext=jpg" },
+    { "id": 2, 
+      "title": "Iron Man", 
+      "author": "Stan Lee",
+      "price": 500,
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?size=626&ext=jpg" },
+    { "id": 3, 
+      "title": "Batman", 
+      "author": "DC",
+      "price": 700,
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?size=626&ext=jpg" }
+    ],
+    "users": [
+      { "id": 1, "email": "subham@gmail.com", "password":"Subham" }
+    ],
+    "cart": { "id": 1, "useremail": "subham@gmail.com", "postId": 1,
+    "quantity":1,
+    "title": "Batman", 
+    "author": "DC",
+    "price": 700,
+  "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?size=626&ext=jpg" }
+  }
